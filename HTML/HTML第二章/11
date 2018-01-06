@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!-- saved from url=(0070)http://localhost:63342/demo/steam.html?_ijt=7lvbaoqmqtg8hs9ag3ajvd784j -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>兰蔻官网</title>
+        <style type="text/css">
+            .t0{
+                color: #eee8aa;
+                padding-left: 100px;
+                list-style-type: none;
+                float: left;
+            }
+            .t1{
+                color: black;
+                padding-left: 100px;
+                list-style-type: none;
+                float: left;
+            }
+            .t2{
+                color: purple;
+                padding-left: 100px;
+                list-style-type: none;
+                float: left;
+            }
+        </style>
+    </head>
+
+<body bgcolor="#eee8aa">
+
+
+<h1 align="center">兰蔻LANCOME</h1>
+<hr color="red" size="5px">
+<l>
+    <li class="t0" style="font-size:20px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+    <li class="t1" style="font-size:20px">首页</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li class="t2" style="font-size:20px">护肤</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li class="t1" style="font-size:20px">彩妆</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li class="t2" style="font-size:20px">礼盒</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li class="t1" style="font-size:20px">客服</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li class="t2" style="font-size:20px">登录</li>
+</l>
+
+<center>
+    <br><br><br><br><br><h1 class=".g">兰蔻用户登录</h1><br>
+
+    &nbsp;&nbsp;&nbsp;用户名：<input type="text"><br><br><br>
+    &nbsp;&nbsp;&nbsp;密&nbsp;&nbsp;&nbsp;码：<input type="password"><br><br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="登录">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="注册">
+</center>
+
+</body></html>
