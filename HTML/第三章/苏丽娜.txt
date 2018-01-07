@@ -1,0 +1,185 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>头部部分</title>
+
+    <style type="text/css">
+
+        body{
+
+            margin: 0 auto; 
+
+            padding: 0;
+
+        }
+
+        #head/*最大的DIV*/{
+
+            width: 800px;
+
+            height: 100px;
+
+            margin: 0 auto;
+
+
+
+        }
+
+        #logo/*六人行图像添加*/{
+
+            no-repeat;
+            width: 170px;
+
+            height: 65px;
+
+            float: left;
+
+            line-height: 100px;
+
+            margin-top: 10px;
+
+        }
+
+
+
+        li/*<ul><li>中的li*/{
+
+            list-style: none; /*去除圆点*/
+
+            float: left; /*左浮动*/
+
+            margin-left: 20px;
+
+        }
+
+        a/*a标签*/{
+
+            text-decoration: none;/*去除下划线*/
+
+            color: darkgrey;/*添加颜色 灰色*/
+
+            font-weight: bold;/*字体加粗*/
+
+        }
+
+        #in/*文本框*/{
+
+            padding:21px 185px;
+
+        }
+
+        #in_s /*查找按钮所在的div*/{
+
+            background: url("666/icon.gif") no-repeat 0px 5px;
+
+            border:  blue 3px solid;/*边框*/
+
+            width: 465px;/*宽度*/
+
+            height:36px;/*高度*/
+
+            float: left;/*左浮动*/
+
+        }
+
+        #in_s input{
+
+            width: 430px;/*宽度*/
+
+            height:34px;/*高度*/
+
+            margin-left: 30px;
+
+            border: 0px none;/*无边框*/
+
+        }
+
+        .input/*普通按钮的属性添加*/{
+
+            height:41px;/*高度*/
+
+            background-color: blue;/*背景颜色*/
+
+            border: 0px none;/*无边框*/
+
+            color: #FFFFFF;/*字体颜色*/
+
+            font-weight: bold;/*加粗*/
+
+            padding-left: 20px;/*内容到边框的距离20px*/
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div id="head">
+
+    <div id="logo"><img src="666/logo.gif"></div>
+
+    <div id="navMenu">
+
+        <div id="nav">
+
+            <ul>
+
+                <li><a href="#">首页&nbsp;&nbsp;&nbsp;&nbsp;|</a></li>
+
+                <li><a href="#">活动&nbsp;&nbsp;&nbsp;&nbsp;|</a></li>
+
+                <li><a href="#">据点&nbsp;&nbsp;&nbsp;&nbsp;|</a></li>
+
+                <li><a href="#">招贴&nbsp;&nbsp;&nbsp;&nbsp;|</a></li>
+
+                <li><a href="#">VIP服务&nbsp;&nbsp;&nbsp;&nbsp;|</a></li>
+
+                <li><a href="#">随便逛逛</a></li>
+
+            </ul>
+
+        </div>
+
+        <div id="in">
+
+            <table>
+
+                <tr>
+
+                    <td>
+
+                        <div id="in_s">
+
+
+
+                            <input type="text">
+
+                        </div>
+
+                    </td>
+
+                    <td><input type="button" value="搜搜！" class="input"></td>
+
+                </tr>
+
+            </table>
+
+        </div>
+
+
+
+    </div>
+
+</div>
+
+</body>
+
+</html>
